@@ -1,0 +1,12 @@
+{
+  "name": "angular-autocomplete",
+  "version": "0.0.1",
+  "description": "Angular auto complete directive",
+  "main": "main.js",
+  "keywords": [
+    "angular",
+    "directive"
+  ],
+  "author": "Colin Kahn",
+  "license": "ISC"
+}
